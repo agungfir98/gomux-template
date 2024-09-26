@@ -1,0 +1,12 @@
+# executable
+*.exe
+*.exe~
+
+# test binary build with `go test -c`
+*.test
+
+# environement variable
+.env
+
+# idk, it's just tmp dir
+tmp/
